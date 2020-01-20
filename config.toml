@@ -2,7 +2,7 @@ baseURL = "https://www.muddypuddlestudio.com"
 languageCode = "en-us"
 title = "Muddy Puddle Studio"
 theme = "aerial"
-googleAnalytics = "###"
+googleAnalytics = "UA-80604328-8"
 
 [params]
   name = "Muddy Puddle Studio"
