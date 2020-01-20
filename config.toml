@@ -2,10 +2,15 @@ baseURL = "https://www.muddypuddlestudio.com"
 languageCode = "en-us"
 title = "Muddy Puddle Studio"
 theme = "aerial"
+googleAnalytics = "###"
 
 [params]
   name = "Muddy Puddle Studio"
-  about = "Coming Soon"
+  author = "Muddy Puddle Studio"
+  description = "Muddy Puddle Studio is focused on capturing all your family moments. Life can be messy, why not capture it?"
+  keywords = "muddy puddle studio, muddy puddle, photography, photo, studio, lifestyle, riverside, california, life"
+
+  about = "Life can be messy, why not capture it?"
   copyright = "2020 Muddy Puddle Studio"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "#"
